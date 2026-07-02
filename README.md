@@ -22,6 +22,8 @@ This repository contains my daily Python practice and structured learning journe
 
 | Day | Topic | Status |
 |-----|------|--------|
+| Day1| Print hello world|
+| Day2|Concatenation of two strings|
 
 
 ---
