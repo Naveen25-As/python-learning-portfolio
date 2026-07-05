@@ -26,6 +26,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day2|Concatenation of two strings|
 | Day3|Reverse a string with or without using third variable.|
 | Day4|Palindrome for a string.|
+| Day5|Count of vowels in a string.|
 
 
 
