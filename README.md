@@ -27,6 +27,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day3|Reverse a string with or without using third variable.|
 | Day4|Palindrome for a string.|
 | Day5|Count of vowels in a string.|
+| Day6|Find the Length of a String (Without len()).|
+
 
 
 
