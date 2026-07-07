@@ -1,4 +1,4 @@
-# Find the Length of a String (Without len())
+# Find the Length of a String (Without len()).
 
 str = input("Enter a string: ")
 
