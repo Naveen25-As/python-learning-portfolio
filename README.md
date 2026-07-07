@@ -28,6 +28,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day4|Palindrome for a string.|
 | Day5|Count of vowels in a string.|
 | Day6|Find the Length of a String (Without len()).|
+| Day7|Count Uppercase and Lowercase Letters.|
 
 
 
