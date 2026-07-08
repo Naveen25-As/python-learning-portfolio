@@ -30,7 +30,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day6|Find the Length of a String (Without len()).|
 | Day7|Count Uppercase and Lowercase Letters.|1|
 |     |Count Digits, Alphabets, and Special Characters.|2|
-|Day8|Count Frequency of Each Characte.|
+|Day8|Count Frequency of Each Character.|
 
 
 
