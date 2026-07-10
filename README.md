@@ -32,6 +32,7 @@ This repository contains my daily Python practice and structured learning journe
 |     |Count Digits, Alphabets, and Special Characters.|
 | Day8|Count Frequency of Each Character.|
 | Day9|Check if Two Strings are Anagrams.|
+| Day10|Find Duplicate Characters.|
 
 
 ---
