@@ -28,10 +28,10 @@ This repository contains my daily Python practice and structured learning journe
 | Day4|Palindrome for a string.|
 | Day5|Count of vowels in a string.|
 | Day6|Find the Length of a String (Without len()).|
-| Day7|Count Uppercase and Lowercase Letters.|1|
-|     |Count Digits, Alphabets, and Special Characters.|2|
-|Day8|Count Frequency of Each Character.|
-|Day9|Check if Two Strings are Anagrams.|
+| Day7|Count Uppercase and Lowercase Letters.|
+|     |Count Digits, Alphabets, and Special Characters.|
+| Day8|Count Frequency of Each Character.|
+| Day9|Check if Two Strings are Anagrams.|
 
 
 ---
