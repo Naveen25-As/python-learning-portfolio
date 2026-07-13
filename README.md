@@ -35,6 +35,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day10|Find Duplicate Characters.|
 | Day11|Remove Duplicate Characters.|
 | Day12|Count Digits, Alphabets, and Special Characters.|
+| Day13|Find the First Non-Repeating Character.|
 
 
 
