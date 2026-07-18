@@ -41,6 +41,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day15|Password Strength Checker.|
 | Day16|Income Tax Calculator.|
 | Day17|Date Validator (DD/MM/YYYY).|
+| Day18|BMI Calculator with Health Category.|
 
 ---
 
