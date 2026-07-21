@@ -44,6 +44,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day18|BMI Calculator with Health Category.|
 | Day19|Loan EMI Calculator.|
 | Day20|Bill Generator.|
+| Day21|Simple Interest Calculator.|
 
 ---
 
