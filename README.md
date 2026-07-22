@@ -45,6 +45,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day19|Loan EMI Calculator.|
 | Day20|Bill Generator.|
 | Day21|Simple Interest Calculator.|
+| Day22|Compound Interest Calculator.|
 
 ---
 
