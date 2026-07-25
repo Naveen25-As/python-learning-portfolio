@@ -48,6 +48,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day22|Compound Interest Calculator.|
 | Day23|Armstrong number.|
 | Day24|Palindrome Number.|
+| Day25|Factorial using Function.|
+
 
 
 ---
