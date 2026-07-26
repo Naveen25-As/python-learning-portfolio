@@ -49,6 +49,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day23|Armstrong number.|
 | Day24|Palindrome Number.|
 | Day25|Factorial using Function.|
+| Day26|Prime Number.|
 
 
 
