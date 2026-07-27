@@ -22,34 +22,36 @@ This repository contains my daily Python practice and structured learning journe
 
 | Day | Topic | Status |
 |-----|------|--------|
-| Day1| Print hello world|
-| Day2|Concatenation of two strings|
-| Day3|Reverse a string with or without using third variable.|
-| Day4|Palindrome for a string.|
-| Day5|Count of vowels in a string.|
-| Day6|Find the Length of a String (Without len()).|
-| Day7|Count Uppercase and Lowercase Letters.|
-|     |Count Digits, Alphabets, and Special Characters.|
-| Day8|Count Frequency of Each Character.|
-| Day9|Check if Two Strings are Anagrams.|
-| Day10|Find Duplicate Characters.|
-| Day11|Remove Duplicate Characters.|
-| Day12|Count Digits, Alphabets, and Special Characters.|
-| Day13|Find the First Non-Repeating Character.|
-| Day14|Electricity Bill Calculator.|
-|      |Student Grade Calculator.|
-| Day15|Password Strength Checker.|
+| Day1| Print hello world|	✅ Completed
+| Day2|Concatenation of two strings|	✅ Completed
+| Day3|Reverse a string with or without using third variable.|	✅ Completed
+| Day4|Palindrome for a string.|	✅ Completed
+| Day5|Count of vowels in a string.|	✅ Completed
+| Day6|Find the Length of a String (Without len()).|	✅ Completed
+| Day7|Count Uppercase and Lowercase Letters.|	✅ Completed
+|     |Count Digits, Alphabets, and Special Characters.|	✅ Completed
+| Day8|Count Frequency of Each Character.|	✅ Completed
+| Day9|Check if Two Strings are Anagrams.|	✅ Completed
+| Day10|Find Duplicate Characters.|	✅ Completed
+| Day11|Remove Duplicate Characters.|	✅ Completed
+| Day12|Count Digits, Alphabets, and Special Characters.|	✅ Completed
+| Day13|Find the First Non-Repeating Character.|	✅ Completed
+| Day14|Electricity Bill Calculator.|	✅ Completed
+|      |Student Grade Calculator.|	✅ Completed
+| Day15|Password Strength Checker.|	✅ Completed
 | Day16|Income Tax Calculator.|
-| Day17|Date Validator (DD/MM/YYYY).|
-| Day18|BMI Calculator with Health Category.|
-| Day19|Loan EMI Calculator.|
-| Day20|Bill Generator.|
-| Day21|Simple Interest Calculator.|
-| Day22|Compound Interest Calculator.|
-| Day23|Armstrong number.|
-| Day24|Palindrome Number.|
-| Day25|Factorial using Function.|
-| Day26|Prime Number.|
+| Day17|Date Validator (DD/MM/YYYY).|	✅ Completed
+| Day18|BMI Calculator with Health Category.|	✅ Completed
+| Day19|Loan EMI Calculator.|	✅ Completed
+| Day20|Bill Generator.|	✅ Completed
+| Day21|Simple Interest Calculator.|	✅ Completed
+| Day22|Compound Interest Calculator.|	✅ Completed
+| Day23|Armstrong number.|	✅ Completed
+| Day24|Palindrome Number.|	✅ Completed
+| Day25|Factorial using Function.|	✅ Completed
+| Day26|Prime Number.|	✅ Completed
+| Day27|Fabonacci series.|	✅ Completed
+|      |Largest of Three Numbers.|	✅ Completed
 
 
 
