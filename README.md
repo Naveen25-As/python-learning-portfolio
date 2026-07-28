@@ -52,6 +52,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day26|Prime Number.|	✅ Completed
 | Day27|Fabonacci series.|	✅ Completed
 |      |Largest of Three Numbers.|	✅ Completed
+| Day28|Count Vowels.|✅ Completed
+|      |Reverse a String.|✅ Completed
 
 
 
