@@ -54,7 +54,11 @@ This repository contains my daily Python practice and structured learning journe
 |      |Largest of Three Numbers.|	✅ Completed
 | Day28|Count Vowels.|✅ Completed
 |      |Reverse a String.|✅ Completed
-
+| Day29| 1.Print numbers from 1 to 10.|✅ Completed
+|      | 2.Print even numbers from 1 to 100.|✅ Completed
+|      | 3.Print odd numbers from 1 to 100.|✅ Completed
+|      | 4.Find the sum of first N natural numbers.|✅ Completed
+|      | 5.Find the factorial of a number.|✅ Completed
 
 
 ---
