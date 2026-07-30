@@ -59,6 +59,11 @@ This repository contains my daily Python practice and structured learning journe
 |      | 3.Print odd numbers from 1 to 100.|✅ Completed
 |      | 4.Find the sum of first N natural numbers.|✅ Completed
 |      | 5.Find the factorial of a number.|✅ Completed
+| Day30|Reverse a number.|✅ Completed
+|      |Count digits in a number.|✅ Completed
+|      |Check whether a number is a palindrome.|✅ Completed
+|      |Print the multiplication table of a number.|✅ Completed
+|      |Check whether a number is prime.|✅ Completed
 
 
 ---
