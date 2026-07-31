@@ -39,7 +39,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day14|Electricity Bill Calculator.|	✅ Completed
 |      |Student Grade Calculator.|	✅ Completed
 | Day15|Password Strength Checker.|	✅ Completed
-| Day16|Income Tax Calculator.|
+| Day16|Income Tax Calculator.|✅ Completed
 | Day17|Date Validator (DD/MM/YYYY).|	✅ Completed
 | Day18|BMI Calculator with Health Category.|	✅ Completed
 | Day19|Loan EMI Calculator.|	✅ Completed
