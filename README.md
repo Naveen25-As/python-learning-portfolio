@@ -64,6 +64,9 @@ This repository contains my daily Python practice and structured learning journe
 |      |Check whether a number is a palindrome.|✅ Completed
 |      |Print the multiplication table of a number.|✅ Completed
 |      |Check whether a number is prime.|✅ Completed
+| Day31|Right Triangle.|✅ Completed
+|      |Inverted Triangle.|✅ Completed
+|      |Number Triangle.|✅ Completed
 
 
 ---
