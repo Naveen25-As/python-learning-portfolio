@@ -67,6 +67,9 @@ This repository contains my daily Python practice and structured learning journe
 | Day31|Right Triangle.|✅ Completed
 |      |Inverted Triangle.|✅ Completed
 |      |Number Triangle.|✅ Completed
+| Day32|Find the largest digit in a number.|✅ Completed
+|      |Print the sum of digits of a number.|✅ Completed
+|      |Find all prime numbers between 1 and 100.|✅ Completed
 
 
 ---
