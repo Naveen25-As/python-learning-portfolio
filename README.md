@@ -70,6 +70,20 @@ This repository contains my daily Python practice and structured learning journe
 | Day32|Find the largest digit in a number.|✅ Completed
 |      |Print the sum of digits of a number.|✅ Completed
 |      |Find all prime numbers between 1 and 100.|✅ Completed
+| Day33| 1. Create and Print a List|✅ Completed
+|      | 2. Access List Elements|✅ Completed
+|      | 3. Find the Length of a List|✅ Completed
+|      | 4. Add an Element (append)|✅ Completed
+|      | 5. Insert an Element |✅ Completed
+|      | 6. Remove an Element|✅ Completed
+|      | 7. Delete an Element Using Index|✅ Completed
+|      | 8. Pop an Element |✅ Completed
+|      | 9. Update a List Element |✅ Completed
+|      |10. Traverse a List Using a Loop |✅ Completed
+|      |11. Check if an Element Exists|✅ Completed
+|      |12. Count Elements|✅ Completed
+|      |13. Find Maximum and Minimum|✅ Completed
+
 
 
 ---
