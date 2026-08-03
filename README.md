@@ -83,6 +83,21 @@ This repository contains my daily Python practice and structured learning journe
 |      |11. Check if an Element Exists|✅ Completed
 |      |12. Count Elements|✅ Completed
 |      |13. Find Maximum and Minimum|✅ Completed
+| Day34| Find the Largest Element (Without max())|✅ Completed
+|      | Find the Smallest Element (Without min()) |✅ Completed
+|      | Find the Second Largest Element |✅ Completed
+|      | Find the Second Smallest Element |✅ Completed
+|      | Count Even and Odd Numbers |✅ Completed
+|      | Separate Positive and Negative Numbers|✅ Completed
+|      | Find Duplicate Elements|✅ Completed
+|      | Find Common Elements in Two Lists |✅ Completed
+|      | Rotate a List Left by One Position |✅ Completed
+|      | Rotate a List Right by One Position|✅ Completed
+|      | Check if a List is a Palindrome |✅ Completed
+|      | Bubble Sort|✅ Completed
+|      | Selection Sort|✅ Completed
+|      | Linear Search|✅ Completed
+|      | Binary Search|✅ Completed
 
 
 
