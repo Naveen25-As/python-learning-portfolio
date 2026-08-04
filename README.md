@@ -70,33 +70,33 @@ This repository contains my daily Python practice and structured learning journe
 | Day32|Find the largest digit in a number.|✅ Completed
 |      |Print the sum of digits of a number.|✅ Completed
 |      |Find all prime numbers between 1 and 100.|✅ Completed
-| Day33| 1. Create and Print a List|✅ Completed
-|      | 2. Access List Elements|✅ Completed
-|      | 3. Find the Length of a List|✅ Completed
-|      | 4. Add an Element (append)|✅ Completed
+| Day33| 1. Create and Print a List.|✅ Completed
+|      | 2. Access List Elements.|✅ Completed
+|      | 3. Find the Length of a List.|✅ Completed
+|      | 4. Add an Element (append).|✅ Completed
 |      | 5. Insert an Element |✅ Completed
-|      | 6. Remove an Element|✅ Completed
-|      | 7. Delete an Element Using Index|✅ Completed
-|      | 8. Pop an Element |✅ Completed
-|      | 9. Update a List Element |✅ Completed
-|      |10. Traverse a List Using a Loop |✅ Completed
-|      |11. Check if an Element Exists|✅ Completed
-|      |12. Count Elements|✅ Completed
-|      |13. Find Maximum and Minimum|✅ Completed
-| Day34| Find the Largest Element (Without max())|✅ Completed
-|      | Find the Smallest Element (Without min()) |✅ Completed
-|      | Find the Second Largest Element |✅ Completed
-|      | Find the Second Smallest Element |✅ Completed
-|      | Count Even and Odd Numbers |✅ Completed
-|      | Separate Positive and Negative Numbers|✅ Completed
-|      | Find Duplicate Elements|✅ Completed
-|      | Find Common Elements in Two Lists |✅ Completed
-|      | Rotate a List Left by One Position |✅ Completed
-|      | Rotate a List Right by One Position|✅ Completed
-|      | Check if a List is a Palindrome |✅ Completed
-|      | Bubble Sort|✅ Completed
-|      | Selection Sort|✅ Completed
-|      | Linear Search|✅ Completed
+|      | 6. Remove an Element.|✅ Completed
+|      | 7. Delete an Element Using Index.|✅ Completed
+|      | 8. Pop an Element. |✅ Completed
+|      | 9. Update a List Element. |✅ Completed
+|      |10. Traverse a List Using a Loop. |✅ Completed
+|      |11. Check if an Element Exists.|✅ Completed
+|      |12. Count Elements.|✅ Completed
+|      |13. Find Maximum and Minimum.|✅ Completed
+| Day34| Find the Largest Element (Without max()).|✅ Completed
+|      | Find the Smallest Element (Without min()). |✅ Completed
+|      | Find the Second Largest Element. |✅ Completed
+|      | Find the Second Smallest Element. |✅ Completed
+|      | Count Even and Odd Numbers. |✅ Completed
+|      | Separate Positive and Negative Numbers.|✅ Completed
+|      | Find Duplicate Elements.|✅ Completed
+|      | Find Common Elements in Two Lists. |✅ Completed
+|      | Rotate a List Left by One Position. |✅ Completed
+|      | Rotate a List Right by One Position.|✅ Completed
+|      | Check if a List is a Palindrome. |✅ Completed
+|      | Bubble Sort.|✅ Completed
+|      | Selection Sort.|✅ Completed
+|      | Linear Search.|✅ Completed
 |      | Binary Search|✅ Completed
 | Day35|Create a Student class with name, age, and marks. |✅ Completed
 |      | Create an Employee class with salary calculation.|✅ Completed
