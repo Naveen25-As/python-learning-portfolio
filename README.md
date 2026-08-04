@@ -98,6 +98,16 @@ This repository contains my daily Python practice and structured learning journe
 |      | Selection Sort|✅ Completed
 |      | Linear Search|✅ Completed
 |      | Binary Search|✅ Completed
+| Day35|Create a Student class with name, age, and marks. |✅ Completed
+|      | Create an Employee class with salary calculation.|✅ Completed
+|      | Create a Car class with brand, model, and price.|✅ Completed
+|      | Create a Bank Account class with deposit and withdraw methods.|✅ Completed
+|      | Create a Rectangle class to find area and perimeter.|✅ Completed
+|      | Create a Circle class to find area and circumference.|✅ Completed
+|      | Create a Book class to display book details. |✅ Completed
+|      | Create a Mobile class with specifications.|✅ Completed
+|      | Create a Laptop class and display its details.|✅ Completed
+|      | Create a Person class with a greeting method.|✅ Completed
 
 
 
