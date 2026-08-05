@@ -108,7 +108,16 @@ This repository contains my daily Python practice and structured learning journe
 |      | Create a Mobile class with specifications.|✅ Completed
 |      | Create a Laptop class and display its details.|✅ Completed
 |      | Create a Person class with a greeting method.|✅ Completed
-
+| Day36| Inheritance – Create Person and Student classes.|✅ Completed
+|      | Inheritance – Create Animal and Dog classes.|✅ Completed
+|      |Method Overriding – Vehicle and Bike.|✅ Completed
+|      |Multilevel Inheritance – Grandparent → Parent → Child.|✅ Completed
+|      |Hierarchical Inheritance – Shape → Circle, Rectangle.|✅ Completed
+|      |Constructor Overloading (using default arguments).|✅ Completed
+|      |Create a Library Management system using classes.|✅ Completed
+|      |Create a Shopping Cart using objects.|✅ Completed
+|      |Create a Movie Ticket Booking system.|✅ Completed
+|      |Create a Hospital Patient Record system.|✅ Completed
 
 
 ---
