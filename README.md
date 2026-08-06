@@ -118,6 +118,11 @@ This repository contains my daily Python practice and structured learning journe
 |      |Create a Shopping Cart using objects.|✅ Completed
 |      |Create a Movie Ticket Booking system.|✅ Completed
 |      |Create a Hospital Patient Record system.|✅ Completed
+| Day37| Polymorphism using different classes.|✅ Completed
+|      |Abstract Class using the abc module.|✅ Completed
+|      |Encapsulation using private variables.| ✅ Completed
+|      |Use Getter and Setter methods.|✅ Completed
+|      |Create a Student Result Management System.|✅ Completed
 
 
 ---
