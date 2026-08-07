@@ -123,6 +123,9 @@ This repository contains my daily Python practice and structured learning journe
 |      |Encapsulation using private variables.| ✅ Completed
 |      |Use Getter and Setter methods.|✅ Completed
 |      |Create a Student Result Management System.|✅ Completed
+| Day38|Create an ATM System.|✅ Completed
+|      |Create a Bank Management System.|✅ Completed
+|      |Create a School Management System.|✅ Completed
 
 
 ---
