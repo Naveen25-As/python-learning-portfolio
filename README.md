@@ -126,6 +126,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day38|Create an ATM System.|✅ Completed
 |      |Create a Bank Management System.|✅ Completed
 |      |Create a School Management System.|✅ Completed
+| Day39|Create an Online Shopping System.|✅ Completed
+|      |Create a Hotel Room Booking System.|✅ Completed
 
 
 ---
