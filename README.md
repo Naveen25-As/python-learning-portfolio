@@ -128,6 +128,8 @@ This repository contains my daily Python practice and structured learning journe
 |      |Create a School Management System.|✅ Completed
 | Day39|Create an Online Shopping System.|✅ Completed
 |      |Create a Hotel Room Booking System.|✅ Completed
+| Day40|Hello World GUI. |✅ Completed
+|      |Student Information Form. |✅ Completed
 
 
 ---
