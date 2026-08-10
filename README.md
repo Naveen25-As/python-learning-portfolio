@@ -130,6 +130,7 @@ This repository contains my daily Python practice and structured learning journe
 |      |Create a Hotel Room Booking System.|✅ Completed
 | Day40|Hello World GUI. |✅ Completed
 |      |Student Information Form. |✅ Completed
+| Day41|Simple calculator.|✅ Completed
 
 
 ---
