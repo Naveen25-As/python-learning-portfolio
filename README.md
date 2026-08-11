@@ -131,6 +131,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day40|Hello World GUI. |✅ Completed
 |      |Student Information Form. |✅ Completed
 | Day41|Simple calculator.|✅ Completed
+| Day42|Login form.|✅ Completed
+
 
 
 ---
