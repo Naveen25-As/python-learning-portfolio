@@ -132,6 +132,7 @@ This repository contains my daily Python practice and structured learning journe
 |      |Student Information Form. |✅ Completed
 | Day41|Simple calculator.|✅ Completed
 | Day42|Login form.|✅ Completed
+| Day43|Button Click Counter.| ✅ Completed
 
 
 
