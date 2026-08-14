@@ -134,6 +134,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day42|Login form.|✅ Completed
 | Day43|Button Click Counter.|✅ Completed
 | Day44|Greeting Application.|✅ Completed
+| Day45|Temperature Converter.|✅ Completed
+
 
 
 ---
