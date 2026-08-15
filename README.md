@@ -135,6 +135,9 @@ This repository contains my daily Python practice and structured learning journe
 | Day43|Button Click Counter.|✅ Completed
 | Day44|Greeting Application.|✅ Completed
 | Day45|Temperature Converter.|✅ Completed
+| Day46|Age Calculator.|✅ Completed
+
+Age Calculator
 
 
 
