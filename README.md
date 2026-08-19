@@ -137,7 +137,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day45|Temperature Converter.|✅ Completed
 | Day46|Age Calculator.|✅ Completed
 | Day47|Rotate a list left or right.|✅ Completed
-
+| Day48|Move all zeros to the end.|✅ Completed
 
 
 ---
