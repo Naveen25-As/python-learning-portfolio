@@ -139,6 +139,9 @@ This repository contains my daily Python practice and structured learning journe
 | Day47|Rotate a list left or right.|✅ Completed
 | Day48|Move all zeros to the end.|✅ Completed
 | Day49|Find an element that appears once when every other element appears twice.|✅ Completed
+| Day50|Find an element that appears once when every other element appears three times.|✅ Completed
+
+Find an element that appears once when every other element appears three times
 
 ---
 
