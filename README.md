@@ -142,6 +142,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day50|Find an element that appears once when every other element appears three times.|✅ Completed
 | Day51|Implement your own sort() algorithm using a list|✅ Completed
 | Day52|Find the product of array elements except itself.|✅ Completed
+| Day53|Find the Pivot Index.|✅ Completed
 
 
 ---
