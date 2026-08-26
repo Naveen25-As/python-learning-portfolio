@@ -143,7 +143,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day51|Implement your own sort() algorithm using a list|✅ Completed
 | Day52|Find the product of array elements except itself.|✅ Completed
 | Day53|Find the Pivot Index.|✅ Completed
-
+| Day54|Rotate a List Left by K Positions|✅ Completed
 
 ---
 
