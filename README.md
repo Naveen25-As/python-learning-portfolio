@@ -144,7 +144,9 @@ This repository contains my daily Python practice and structured learning journe
 | Day52|Find the product of array elements except itself.|✅ Completed
 | Day53|Find the Pivot Index.|✅ Completed
 | Day54|Rotate a List Left by K Positions.|✅ Completed
-| Day54|Rotate a List Right by K Positions.|✅ Completed
+| Day55|Rotate a List Right by K Positions.|✅ Completed
+| Day56|Reverse a List in Groups of K.|✅ Completed
+
 
 
 ---
