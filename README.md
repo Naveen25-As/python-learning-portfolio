@@ -146,6 +146,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day54|Rotate a List Left by K Positions.|✅ Completed
 | Day55|Rotate a List Right by K Positions.|✅ Completed
 | Day56|Reverse a List in Groups of K.|✅ Completed
+| Day57|Find Leaders in a List.|✅ Completed
+
 
 
 
