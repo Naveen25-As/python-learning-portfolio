@@ -148,8 +148,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day56|Reverse a List in Groups of K.|✅ Completed
 | Day57|Find Leaders in a List.|✅ Completed
 | Day58|Find a Subarray With a Given Sum.|✅ Completed
-
-
+| Day59|Find the Smallest Subarray With Sum Greater Than a Target.|✅ Completed
 
 
 
