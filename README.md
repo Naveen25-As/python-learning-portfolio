@@ -149,6 +149,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day57|Find Leaders in a List.|✅ Completed
 | Day58|Find a Subarray With a Given Sum.|✅ Completed
 | Day59|Find the Smallest Subarray With Sum Greater Than a Target.|✅ Completed
+| Day60|Find All Subarrays Having Sum Zero.|✅ Completed
+
 
 
 
