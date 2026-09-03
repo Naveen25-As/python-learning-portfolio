@@ -151,6 +151,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day59|Find the Smallest Subarray With Sum Greater Than a Target.|✅ Completed
 | Day60|Find All Subarrays Having Sum Zero.|✅ Completed
 | Day61|Find the Longest Subarray With Sum Zero.|✅ Completed
+| Day62|Find the Longest Subarray With Equal 0s and 1s.|✅ Completed
+
 
 
 
