@@ -153,7 +153,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day61|Find the Longest Subarray With Sum Zero.|✅ Completed
 | Day62|Find the Longest Subarray With Equal 0s and 1s.|✅ Completed
 | Day63|Find Maximum Sum of a Circular Subarray.|✅ Completed
-
+| Day64|Find Maximum Consecutive 1s.|✅ Completed
 
 
 
