@@ -156,6 +156,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day64|Find Maximum Consecutive 1s.|✅ Completed
 | Day65|Maximum Consecutive 1s After Changing At Most K Zeros.|✅ Completed
 | Day66|To-Do List App.|✅ Completed
+| Day67|Student Management System.|✅ Completed
+
 
 
 ---
