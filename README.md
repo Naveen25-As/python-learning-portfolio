@@ -159,6 +159,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day67|Student Management System.|✅ Completed
 | Day68|Contact Book.|✅ Completed
 | Day69|Quiz Application.|✅ Completed
+| Day70|Password Generator.|✅ Completed
+
 
 ---
 
