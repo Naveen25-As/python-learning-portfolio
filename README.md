@@ -161,6 +161,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day69|Quiz Application.|✅ Completed
 | Day70|Password Generator.|✅ Completed
 | Day71|Expense Tracker.|✅ Completed
+| Day72|BMI Calculator.|✅ Completed
+
 
 
 
