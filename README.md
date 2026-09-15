@@ -163,6 +163,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day71|Expense Tracker.|✅ Completed
 | Day72|BMI Calculator.|✅ Completed
 | Day73|Number Guessing Game.|✅ Completed
+| Day74|Stop Watch.|✅ Completed
 
 
 
