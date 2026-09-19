@@ -167,6 +167,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day75|Countdown Timer.|✅ Completed
 | Day76|Bank Management System.|✅ Completed
 | Day77|Library Management System.|✅ Completed
+| Day78|Inventory Management System.|✅ Completed
+
 
 ---
 
