@@ -169,6 +169,9 @@ This repository contains my daily Python practice and structured learning journe
 | Day77|Library Management System.|✅ Completed
 | Day78|Inventory Management System.|✅ Completed
 | Day79|Hospital Management System.|✅ Completed
+| Day80|Employee Management System.|✅ Completed
+
+
 
 
 
