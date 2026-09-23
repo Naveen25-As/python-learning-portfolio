@@ -171,6 +171,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day79|Hospital Management System.|✅ Completed
 | Day80|Employee Management System.|✅ Completed
 | Day81|Tkinter + SQLite Expense Tracker.|✅ Completed
+| Day82|Weather App.|✅ Completed
 ---
 
 ## 🎯 Goal
