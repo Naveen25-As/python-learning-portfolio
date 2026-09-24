@@ -172,6 +172,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day80|Employee Management System.|✅ Completed
 | Day81|Tkinter + SQLite Expense Tracker.|✅ Completed
 | Day82|Weather App.|✅ Completed
+| Day83|File Explorer.|✅ Completed
+
 ---
 
 ## 🎯 Goal
