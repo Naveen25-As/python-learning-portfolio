@@ -128,16 +128,16 @@ This repository contains my daily Python practice and structured learning journe
 |      |Create a School Management System.|✅ Completed
 | Day39|Create an Online Shopping System.|✅ Completed
 |      |Create a Hotel Room Booking System.|✅ Completed
-| Day40|Hello World GUI. |✅ Completed
-|      |Student Information Form. |✅ Completed
-| Day41|Simple calculator.|✅ Completed
-| Day42|Login form.|✅ Completed
-| Day43|Button Click Counter.|✅ Completed
-| Day44|Greeting Application.|✅ Completed
-| Day45|Temperature Converter.|✅ Completed
-| Day46|Age Calculator.|✅ Completed
-| Day47|Rotate a list left or right.|✅ Completed
-| Day48|Move all zeros to the end.|✅ Completed
+| Day40|Hello World GUI Tkinter Program. |✅ Completed
+|      |Student Information Form Tkinter Program. |✅ Completed
+| Day41|Simple calculator Tkinter Program.|✅ Completed
+| Day42|Login form Tkinter Program.|✅ Completed
+| Day43|Button Click Counter Tkinter Program.|✅ Completed
+| Day44|Greeting Application Tkinter Program.|✅ Completed
+| Day45|Temperature Converter Tkinter Program.|✅ Completed
+| Day46|Age Calculator Tkinter Program.|✅ Completed
+| Day47|Rotate a list left or right Tkinter Program.|✅ Completed
+| Day48|Move all zeros to the end Tkinter Program.|✅ Completed
 | Day49|Find an element that appears once when every other element appears twice.|✅ Completed
 | Day50|Find an element that appears once when every other element appears three times.|✅ Completed
 | Day51|Implement your own sort() algorithm using a list|✅ Completed
@@ -155,25 +155,25 @@ This repository contains my daily Python practice and structured learning journe
 | Day63|Find Maximum Sum of a Circular Subarray.|✅ Completed
 | Day64|Find Maximum Consecutive 1s.|✅ Completed
 | Day65|Maximum Consecutive 1s After Changing At Most K Zeros.|✅ Completed
-| Day66|To-Do List App.|✅ Completed
-| Day67|Student Management System.|✅ Completed
-| Day68|Contact Book.|✅ Completed
-| Day69|Quiz Application.|✅ Completed
-| Day70|Password Generator.|✅ Completed
-| Day71|Expense Tracker.|✅ Completed
-| Day72|BMI Calculator.|✅ Completed
-| Day73|Number Guessing Game.|✅ Completed
-| Day74|Stop Watch.|✅ Completed
-| Day75|Countdown Timer.|✅ Completed
-| Day76|Bank Management System.|✅ Completed
-| Day77|Library Management System.|✅ Completed
-| Day78|Inventory Management System.|✅ Completed
-| Day79|Hospital Management System.|✅ Completed
-| Day80|Employee Management System.|✅ Completed
-| Day81|Tkinter + SQLite Expense Tracker.|✅ Completed
-| Day82|Weather App.|✅ Completed
-| Day83|File Explorer.|✅ Completed
-| Day84|Number Guessing Game.|✅ Completed
+| Day66|To-Do List App Tkinter Program.|✅ Completed
+| Day67|Student Management System Tkinter Program.|✅ Completed
+| Day68|Contact Book Tkinter Program.|✅ Completed
+| Day69|Quiz Application Tkinter Program.|✅ Completed
+| Day70|Password Generator Tkinter Program.|✅ Completed
+| Day71|Expense Tracker Tkinter Program.|✅ Completed
+| Day72|BMI Calculator Tkinter Program.|✅ Completed
+| Day73|Number Guessing Game Tkinter Program.|✅ Completed
+| Day74|Stop Watch Tkinter Program.|✅ Completed
+| Day75|Countdown Timer Tkinter Program.|✅ Completed
+| Day76|Bank Management System Tkinter Program.|✅ Completed
+| Day77|Library Management System Tkinter Program.|✅ Completed
+| Day78|Inventory Management System Tkinter Program.|✅ Completed
+| Day79|Hospital Management System Tkinter Program.|✅ Completed
+| Day80|Employee Management System Tkinter Program.|✅ Completed
+| Day81|Tkinter + SQLite Expense Tracker Tkinter Program.|✅ Completed
+| Day82|Weather App Tkinter Program.|✅ Completed
+| Day83|File Explorer Tkinter Program.|✅ Completed
+| Day84|Number Guessing Game .|✅ Completed
 
 
 ---
