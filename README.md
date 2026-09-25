@@ -173,6 +173,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day81|Tkinter + SQLite Expense Tracker.|✅ Completed
 | Day82|Weather App.|✅ Completed
 | Day83|File Explorer.|✅ Completed
+| Day84|Number Guessing Game.|✅ Completed
+
 
 ---
 
