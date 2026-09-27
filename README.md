@@ -175,7 +175,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day83|File Explorer Tkinter Program.|✅ Completed
 | Day84|Number Guessing Game .|✅ Completed
 | Day85|Student Grade Calculator.|✅ Completed
-
+| Day86|Simple Calculator.|✅ Completed
 
 
 ---
