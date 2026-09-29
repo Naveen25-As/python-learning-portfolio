@@ -177,6 +177,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day85|Student Grade Calculator.|✅ Completed
 | Day86|Simple Calculator.|✅ Completed
 | Day87|Contact Book.|✅ Completed
+| Day88|To-Do List.|✅ Completed
+
 
 ---
 
