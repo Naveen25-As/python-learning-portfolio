@@ -179,7 +179,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day87|Contact Book.|✅ Completed
 | Day88|To-Do List.|✅ Completed
 | Day89|Password Generator.|✅ Completed
-
+| Day90|Expense tracker.|✅ Completed
 ---
 
 ## 🎯 Goal
