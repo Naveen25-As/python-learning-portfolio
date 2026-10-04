@@ -182,6 +182,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day90|Expense tracker.|✅ Completed
 | Day91|Quiz Application.|✅ Completed
 | Day92|File-Based Student Management System.|✅ Completed
+| Day93|CLI To-Do Manager.|✅ Completed
+
 
 ---
 
