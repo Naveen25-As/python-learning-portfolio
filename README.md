@@ -184,6 +184,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day92|File-Based Student Management System.|✅ Completed
 | Day93|CLI To-Do Manager.|✅ Completed
 | Day94|Inventory Management System.|✅ Completed
+| Day95|Simple Login System.|✅ Completed
+
 
 
 
