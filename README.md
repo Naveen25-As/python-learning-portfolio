@@ -185,6 +185,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day93|CLI To-Do Manager.|✅ Completed
 | Day94|Inventory Management System.|✅ Completed
 | Day95|Simple Login System.|✅ Completed
+| Day96|Random Username Generator.|✅ Completed
 
 
 
