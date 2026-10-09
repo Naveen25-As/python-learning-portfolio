@@ -187,6 +187,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day95|Simple Login System.|✅ Completed
 | Day96|Random Username Generator.|✅ Completed
 | Day97|Scientific Calculator.|✅ Completed
+| Day98|Duplicate File Finder.|✅ Completed
 
 
 
