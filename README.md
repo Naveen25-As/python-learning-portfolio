@@ -188,7 +188,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day96|Random Username Generator.|✅ Completed
 | Day97|Scientific Calculator.|✅ Completed
 | Day98|Duplicate File Finder.|✅ Completed
-
+| Day99|Rock Paper Scissors.|✅ Completed
 
 
 
