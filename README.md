@@ -189,11 +189,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day97|Scientific Calculator.|✅ Completed
 | Day98|Duplicate File Finder.|✅ Completed
 | Day99|Dice Rolling Simulator.|✅ Completed
-
-
-
-
-
+| Day100|Typing Speed Tester.|✅ Completed
 ---
 
 ## 🎯 Goal
