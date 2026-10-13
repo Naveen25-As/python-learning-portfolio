@@ -190,6 +190,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day98|Duplicate File Finder.|✅ Completed
 | Day99|Dice Rolling Simulator.|✅ Completed
 | Day100|Typing Speed Tester.|✅ Completed
+| Day101|Digital Clock Using Tkinter.|✅ Completed
+
 ---
 
 ## 🎯 Goal
