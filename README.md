@@ -193,6 +193,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day101|Digital Clock Using Tkinter.|✅ Completed
 | Day102|Countdown Timer.|✅ Completed
 | Day103|Email Slicer.|✅ Completed
+| Day104|Text File Analyzer.|✅ Completed
 
 
 
