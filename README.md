@@ -194,6 +194,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day102|Countdown Timer.|✅ Completed
 | Day103|Email Slicer.|✅ Completed
 | Day104|Text File Analyzer.|✅ Completed
+| Day105|Currency Converter.|✅ Completed
+
 
 
 
