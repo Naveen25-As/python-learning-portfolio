@@ -195,6 +195,8 @@ This repository contains my daily Python practice and structured learning journe
 | Day103|Email Slicer.|✅ Completed
 | Day104|Text File Analyzer.|✅ Completed
 | Day105|Currency Converter.|✅ Completed
+| Day106|Sudoku Board Validator.|✅ Completed
+
 
 
 
