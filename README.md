@@ -196,6 +196,7 @@ This repository contains my daily Python practice and structured learning journe
 | Day104|Text File Analyzer.|✅ Completed
 | Day105|Currency Converter.|✅ Completed
 | Day106|Sudoku Board Validator.|✅ Completed
+| Day107|Website Availability Checker.|✅ Completed
 
 
 
